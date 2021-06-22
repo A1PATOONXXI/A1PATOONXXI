@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A1PATOONXXI
+- 👋 Hi, I’m muhammad.nur.alfathan
 - 👀 I’m interested in building website or make an app
 - 🌱 I’m currently learning html,css,php,java_script,python(or mybe django)
 - 💞️ I’m looking to collaborate on building an app and website
